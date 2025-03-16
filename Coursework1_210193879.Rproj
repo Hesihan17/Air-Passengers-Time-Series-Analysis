@@ -1,0 +1,19 @@
+Version: 1.0
+ProjectId: 33dd4241-1f01-4c1c-87a4-22534d204e1a
+
+RestoreWorkspace: No
+SaveWorkspace: No
+AlwaysSaveHistory: No
+
+EnableCodeIndexing: Yes
+UseSpacesForTab: Yes
+NumSpacesForTab: 4
+Encoding: UTF-8
+
+RnwWeave: Sweave
+LaTeX: pdfLaTeX
+
+StripTrailingWhitespace: Yes
+LineEndingConversion: Posix
+
+SpellingDictionary: en_GB
