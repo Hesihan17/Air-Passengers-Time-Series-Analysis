@@ -1,26 +1,4 @@
----
-title: "MTH6139 Time Series" 
-subtitle: "Coursework 1 - Airline Passngers Per Month Analysis" 
-author: "Hesihan Suthakaran" 
-date: "Spring term 2025" 
-output: 
-  html_document:
-    toc: true
-    toc_float: true
-    theme: spacelab 
-    highlight: tango
-editor_options: 
-  markdown: 
-    wrap: 72
----
 
-```{r, echo=FALSE}
-# This code will display the QMUL logo at the top right of the page
-# Do not change this code
-htmltools::img(src = knitr::image_uri("images/QMlogo.png"),
-               alt = 'logo',
-               style = 'position:absolute; top:0; right:0; padding:10px; width:20%;')
-```
 
 # Section 1: Background
 
